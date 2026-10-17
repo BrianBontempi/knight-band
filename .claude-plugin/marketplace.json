@@ -1,0 +1,6 @@
+{
+  "name": "knight-band",
+  "owner": { "name": "BrianBontempi" },
+  "description": "Knight Band: un cavaliere in pixel art sopra il prompt di Claude Code.",
+  "plugins": [{ "name": "knight-band", "source": "./" }]
+}

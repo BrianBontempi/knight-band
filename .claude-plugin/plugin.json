@@ -1,0 +1,8 @@
+{
+  "name": "knight-band",
+  "version": "0.1.0",
+  "description": "A pixel-art knight above the prompt: he plants a signpost for every tool Claude uses, sleeps by a campfire when Claude rests, and a battery shows how full the context is.",
+  "author": { "name": "BrianBontempi" },
+  "repository": "https://github.com/BrianBontempi/knight-band",
+  "types": "./types/index.d.ts"
+}
